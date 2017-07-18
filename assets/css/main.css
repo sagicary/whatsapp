@@ -1,0 +1,76 @@
+
+.cabeceraizq{
+	height: 60px;
+	background-color: whitesmoke;
+}
+.img-cab{
+	width: 50px;
+	height: 50px;
+	padding: 5px;
+	margin-top: 5px;
+}
+.img-der{
+	padding-left: 300px;
+	padding-right: 10px;
+}
+.img-der2{
+	padding-left: 400px;
+	padding-right: 20px;
+}
+.cabecerader{
+	height: 60px;
+	background-color: whitesmoke;
+	border-left: 1px solid grey;
+}
+.negrita{
+	font-weight: bold;
+}
+.mini{
+	font-size: 12px;
+}
+.gris{
+	color: grey;
+}
+.inputbuscar{
+	width: 100%;
+	font-size: 12px;
+}
+.buscar{
+	height: 60px;
+	background-color: white;
+	margin-top: 20px;
+}
+.fondo{
+	width: 100%;
+	height: 550px;
+	background-image: url(../img/chat-panel-bg.png);
+	background-color: whitesmoke;
+	margin: 0 auto;
+	padding: 0 auto;
+}
+.chat1, .chat2, .chat3, .chat4, .chat5, .chat6, .chat7{
+	border: 1px solid lightgrey;
+	border-right: 3px solid lightgrey;
+	padding: 0px;
+	margin: 0px;
+	cursor: pointer;
+}
+.textear{
+	background-color: whitesmoke;
+	width: 100%;
+	padding-top: 10px;
+	height: 70px;
+}
+.mensaje{
+	background-color: lightgreen;
+	padding: 10px;
+	border-radius: 8px;
+	font-size: 12px;
+	width: 20%;
+	margin-left: 80%;
+}
+#texto1, #texto2{
+	background-color: white;
+	padding: 10px;
+	border-radius: 8px;
+}
